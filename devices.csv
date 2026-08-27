@@ -1,0 +1,9 @@
+name,ip,type,status
+牢大,12.1.1.1,dada,在线
+抠鼻,222.222.22.2,飞机,离线
+aaa,129.123.1.1,a,在线
+GigabitEthernet0/1,未分配,接口,在线
+GigabitEthernet0/2,未分配,接口,在线
+GigabitEthernet0/3,未分配,接口,在线
+Vlan10,未分配,接口,在线
+Vlan20,未分配,接口,在线
