@@ -11,9 +11,10 @@ network-device-manager
 
 ## 技术栈
 - Python
-- CSV
+- CSV 文件读写
 - 异常处理
 - 输入校验
+- 字符串处理
 
 ## 运行方式
-python student.py
+python Internet.py
